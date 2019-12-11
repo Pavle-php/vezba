@@ -1,8 +1,7 @@
 <?php
 
 
-class App
-{
-	
-}
+
+require_once '../app/init.php';
+
 $app = new App;
