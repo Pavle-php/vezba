@@ -2,7 +2,7 @@
 
 class App
 {
-	public function sho()
+	public function user()
 	{
 		echo 'ej';
 	}
